@@ -7,6 +7,7 @@ def ultra_clean_fleetstack_text(input_file='fleetstack_docs.txt', output_file='f
     cleaned = []
     seen = set()
     
+    
     skip_patterns = [
         r'^\s*$',                         # Empty lines
         r'^--- TEXT FROM:',              # Section separators
