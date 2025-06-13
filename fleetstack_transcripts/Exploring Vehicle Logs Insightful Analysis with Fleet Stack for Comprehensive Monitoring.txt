@@ -1,0 +1,15 @@
+log into the software with the admin
+credentials navigate to the vehicles tab
+Under The View menu search the vehicle
+you want to check the logs from the
+search menu by clicking on the vehicle
+number you will be able to see option to
+view the logs by selecting the date from
+the check device logs menu you will be
+able to see the logs of that particular
+vehicle including speed latitude and
+longitude odometer battery distance time
+location and other details
+the details can be exported in the
+format of the Excel PDF and
+CSV

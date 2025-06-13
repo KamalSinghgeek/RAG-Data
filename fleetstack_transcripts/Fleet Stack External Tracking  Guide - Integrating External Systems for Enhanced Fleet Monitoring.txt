@@ -1,0 +1,34 @@
+log into your account with your
+credentials navigate to the utility
+option and select the option of external
+tracking by selecting the external
+tracking link you may need to select
+various options
+including number of vehicles you can
+select single vehicle or multiple
+Vehicles the duration of the link
+validity the level of detail displayed
+like the Geo fencing point of interest
+and Driver
+details by clicking on the create link
+button the the output will be created in
+the form of the embed code and URL link
+the URL link can be copied to the
+browser for the live tracking of the
+vehicle the person who clicks on the
+link will be directed to a live map
+showing the current location of the
+vehicle as well as other details like
+its speed and direction of travel the
+embedded code link can also be used to
+create HTML page for tracking the edit
+function allows you to edit features
+like for example you can add multiple
+vehicles
+the edit feature also allows you to
+change the validity of the tracking link
+once you've created the link copy it and
+share it with anyone who needs to track
+the vehicle this could be a customer a
+manager or a family
+member

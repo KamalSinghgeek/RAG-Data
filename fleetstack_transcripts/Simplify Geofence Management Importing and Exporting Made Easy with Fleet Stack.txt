@@ -1,0 +1,34 @@
+loging into the software with your user
+credentials go to the map page and
+select the vehicle from the cluster by
+clicking on the vehicle icon or
+selecting the vehicle from the side menu
+bar click on the add new geofence button
+select the area to be Geo fenced using
+the search button or navigate the
+location on the map users can use a line
+polygon Square Circle or a marker to
+define the area enter the title descript
+destion and tolerance and select the
+background color and click on the save
+button you can also edit and delete the
+Geo fence using the edit and delete
+button click on the list button to view
+the Geo fence in the form of the list
+users can view or delete the Geo fence
+using the view and delete button Geo
+fences can also be created by selecting
+the Geo fencing option under the utility
+menu to download the list of the
+geofences click on the download geofence
+button and list will be exported in the
+format of the KML to upload the list of
+the Geo fences click on the bulk import
+Geo fence and select the KML file and
+import the list using the upload data
+button to view the Geo fencing in the
+form of the cluster go on the map page
+and select the Geo fencing option from
+the settings tab and all the Geo fences
+will be displayed on the map
+page

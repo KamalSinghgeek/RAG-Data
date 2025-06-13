@@ -1,0 +1,41 @@
+to install the software on server follow
+the steps launch Internet Explorer on
+your server
+machine download Google Chrome on the
+server search for the Windows security
+option from the start
+menu disable the options for the
+realtime protection Cloud delivered
+protection and automatic sample
+submission next step is to open the
+fleet stack
+website click on the download free trial
+button on the website setup will be
+downloaded in the download folder
+extract the files from zip
+folder run the setup file as prompted on
+the screen screen prompt will take you
+to the complete install installation
+process
+finally click on the Finish button to
+complete the installation
+process next step is to access the Local
+Host via the browser and system will ask
+to to register
+yourself access the Windows security to
+enable the various Security Options
+including real-time protection Cloud
+delivered protection and automatic
+sample submission enable The Listener
+service by clicking on the IIs and The
+Listener
+service finally complete the
+registration by entering the various
+details like the company name full name
+country website mobile number username
+and password
+click the Finish button to confirm the
+registration click on the super admin to
+log into the panel using the username
+and password that was
+registered

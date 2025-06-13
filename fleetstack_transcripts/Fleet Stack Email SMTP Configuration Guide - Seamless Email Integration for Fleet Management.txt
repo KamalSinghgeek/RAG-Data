@@ -1,0 +1,56 @@
+[Music]
+the next step is to install the SMTP for
+sending the
+emails go to myac account. goole.com and
+sign in with your Gmail account or login
+into your Gmail and click manage your
+Gmail account in the Google account
+settings click on security in the left
+sidebar next step is to enable the
+two-step verification you'll need to set
+it up
+follow the instructions to add a second
+layer of security to your Google account
+you can use your phone number or another
+method to receive Verification codes
+scroll down to the signing into Google
+section and find app
+passwords click on app specific
+passwords kindly note if you don't find
+the aition under the you will find it in
+two-step verification by clicking on it
+you may be prompted to sign into your
+Google account again to confirm your
+identity enter the app name and click on
+the create button Google will generate a
+unique app password which is a 16
+character code you'll need to use this
+password to configure your email client
+or
+application make sure to copy and save
+this password in a secure place because
+Google won't show it to you again this
+app password is used in place of your
+regular Google account password when
+configuring your email client click on
+the check box to enable the email
+configuration
+encryption typee
+SSL SMTP host URL
+SMTP
+Gmail SMTP Port
+587 email your Gmail email address
+sender name name by which the email
+needs to be sent username your Gmail
+email
+address password your Gmail account
+password or the app specific password
+you generated in above steps click on
+the update SMTP credentials to save the
+details users can test the working of
+the SMTP credentials via test SMTP
+section by sending an email this process
+defines the working of the email in the
+fleet stack software and can be used of
+the various functions in the
+software

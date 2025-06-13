@@ -1,0 +1,58 @@
+[Music]
+loging into the fleet stack software
+with your user
+credentials to create the Geo fencing
+following steps need to be followed
+click on the add new geofence button
+select the area to be Geo fenced using
+the search button or navigate the
+location on the map users can use a line
+polygon Square Circle or a marker to
+define the
+area enter the title description and
+tolerance and select the background
+color and click on the save button to
+view the Geo fencing in the form of the
+cluster go on the map page and select
+the Geo fencing option from the settings
+tab and all the Geo fences will be
+displayed on the map page to download
+the list of the Geo fences click on the
+download geofence button and list will
+be exported in the format of the
+KML to upload the list of the Geo fences
+click on the bulk import Geo fence and
+select the KML file and import the list
+using the upload data
+button similarly point of interest can
+be created using the following steps
+search the location to marked as new
+point of
+Interest click on the add new point of
+Interest button enter the title
+description and category tolerance and
+type of Icon color of the point of
+interest and click on the save button to
+download the list of the point of
+Interest click on the down download
+point of Interest button and list will
+be exported in the format of the KML to
+upload the list of the point of Interest
+click on the bulk import point of
+interest and select the KML
+file to view the point of interest in
+the form of the cluster go on the map
+page and select the point of Interest
+option from the settings tab and all the
+point of interest will be displayed on
+the map page next step is to navigate to
+the notifications tab under the admin
+section set up notifications to alert
+you when a vehicle or person enters or
+exits the Geo fence and stay time inside
+the Geo fence you can use notifications
+to receive alerts in real time the above
+process defines details about the Geo
+fencing and point of interest in the
+fleet stack
+software

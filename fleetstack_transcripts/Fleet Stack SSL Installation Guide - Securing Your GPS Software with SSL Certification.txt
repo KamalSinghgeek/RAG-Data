@@ -1,0 +1,48 @@
+[Music]
+install the SSL for the
+subdomain to install an SSL certificate
+for a subdomain you typically need to
+follow these steps open IIs manager on
+your ec2 instance in IIs manager select
+your server node in the connections
+panel on the left in the center panel
+open bindings for your site click edit
+and configure The Binding for
+https enter the host name example web
+URL and click okay download and install
+win Acme on your Windows
+Server extract the file and run the
+command prompt using the address bar of
+folder to open the command
+prompt enter the command Di and press
+enter all files in the files will be
+displayed enter the command back/ wax.
+exe and press enter multiple options
+will be displayed and select the option
+to create the new certificate by
+entering n command select the option to
+associate single or multiple
+website here we are selecting single
+website by selection
+two pick up all the bindings by entering
+a continue by enter y on the command
+prompt and
+entering
+continue by enter y on the default
+application continue by enter y by
+agreeing to the terms and
+conditions enter your email ID to
+confirm and press
+enter installation process will
+start
+certificate will be
+created step two open
+IIs open default and click open the
+basic settings and Define the path C
+drive program files 86 a fleet stack web
+and press
+okay restart the
+IIs to verify enter the IP and test the
+working of the SSL this process defines
+the installation of the SSL on the
+domain

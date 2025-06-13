@@ -1,0 +1,91 @@
+[Music]
+log into the mobile app with the login
+credentials the dashboard will show the
+total distance covered by all vehicles
+total number of vehicles and their
+status running stop the other parameters
+including the Eco driving driver
+behavior and Vehicle Health are getting
+displayed weekly kilometers will also
+get displayed on the dashboard in the
+format of the graph on the map page of
+the application you will be able to see
+total number of vehicles being tracked
+by software in the form of the cluster
+and by clicking on the cluster you will
+be able to track the exact location of
+the each vehicles on the map page option
+for map selection is available including
+default satellite or terrain settings
+tab on the mobile application allows
+enables various parameters on map page
+including point of interest to view the
+cluster of the point of Interest Geo
+fencing to view the cluster of the Geo
+fencing ripples to to view the Rippling
+around the vehicle my location view your
+current
+location by clicking vehicle number the
+map page allows you to enable the
+various functions such as
+immobilization
+parking navigation the vehicle details
+including vehicle status ignition status
+today's distance satellite and speed are
+displayed history which includes the
+start Point running time kilometers
+address and the stoppages time various
+sensors configured in the
+application other details including type
+of vehicle and IMI number next on the
+mobile app is displayed the list button
+which allows the users to view all
+vehicles in the form of the listing view
+the various status including running
+stop idle are available the listing view
+displays the vehicle number vehicle
+status odometer today's kilometers last
+data update time address status from
+time and speed are displayed
+users can also call the driver view the
+replay view navigate to vehicle location
+and share the location utility page
+allows you for the
+following view the replay view by
+selecting the vehicle and time period
+from the menu and clicking on the show
+results button users can also select the
+type of the map settings and the speed
+of the replay view check the history
+view which includes the following
+details total running time time total
+running
+kilometers total stoppage time start
+Point running time running
+kilometers stoppage time parking mode
+can be enabled to get notified on the
+movement of the vehicle in the form of
+push
+notification vehicle can be immobilized
+with use of the toggle button reports
+page allows you check the report of the
+vehicles and Export the reports
+the users can create the track link by
+selecting the vehicle and
+validity after creating the link the
+link can be shared with the share button
+and deleted by delete button others tab
+on the mobile application allows you to
+perform the following
+functions check the list of point of
+Interest check the list of Geo
+fenes manage the various settings
+including the language notifications
+password and navigation settings users
+can also share their feedback with the
+admin privacy policy details can be
+accessed via the screen users can also
+check the various
+tutorials profile details can be managed
+by profile
+tab

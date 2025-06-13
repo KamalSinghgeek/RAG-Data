@@ -1,0 +1,144 @@
+[Music]
+first of all you have to enter your
+username then you have to enter your
+password then you have to login now you
+have to go to software configuration
+click on software setup enter your
+company name enter your mobile number
+enter software base URL enter company
+website enter your mail ID scroll down
+enter software price enter Facebook link
+enter LinkedIn link enter Instagram link
+enter YouTube link enter Android
+application link enter iOS application
+link enter your company light
+logo enter your company dark
+logo enter your company
+favicon click on update
+details
+click on configuration
+setup insert Google Map API insert
+Firebase server
+API for find your Firebase server
+API first you have to open Google Chrome
+type Google Firebase and follow the
+[Music]
+screen go to
+console go to add
+[Music]
+project enter the name of your
+project and come from it press continue
+press create
+[Music]
+project press
+continue go into the setting of project
+overview open project setting click on
+cloud message
+messaging click on this
+icon enable the Cloud
+messaging go on the page of
+[Music]
+Firebase click on generate the key
+pair copy the
+key copy the
+code
+and search remote desktop
+connection and follow the
+screen enter
+yes follow the
+[Music]
+screen
+[Music]
+search Sublime
+[Music]
+Text drop those two files in Sublime
+[Music]
+Text paste the
+[Music]
+code minimize the Sublime Text and go to
+Firebase go to project
+overview go to web
+icon enter your app
+nickname enter Register
+App follow the
+[Music]
+screen copy the code
+press continue to
+console go to Sublime
+Text follow the
+screen paste the
+[Music]
+code close all the panel of Sublime
+[Music]
+Text
+close Fleet stack
+software go to project overview enter
+and setting go to Project
+setting go to Cloud
+messaging copy the server
+key paste the server key in Firebase
+server API key press update key
+setting go to email SMTP setup choose
+TLS in incr
+type follow the
+screen press update s MTP credentials
+scroll up the
+page click on web URL go to hosting and
+DNS this section might be named DNS
+management DNS settings DNS records or
+something
+similar create new dnsa record
+enter domain
+[Music]
+name enter IP
+[Music]
+address press
+[Music]
+update enter
+[Music]
+URL now your software logo and other
+components has been
+[Music]
+changed Now log into Super
+[Music]
+admin
+[Music]
+open I
+manager
+click on
+sites click on web click on
+bindings add URL name at host
+[Music]
+name click
+okay click close
+close the IIs
+panel download when
+Acme press
+[Music]
+download click on the downloaded
+folder
+[Music]
+click on folder path type CMD to open
+command
+[Music]
+prompt follow the
+screen
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+[Music]
+open IIs
+[Music]
+again go to basic
+setting set physical
+path and enter program files
+x86 enter web press okay press
+okay press
+[Music]
+restart close IIs
+panel your web portal is now secured
+with
+SSL
+[Music]

@@ -1,0 +1,44 @@
+to set up a Firebase project visit the
+Firebase console click on ADD project
+follow the setup wizard to create your
+Firebase project provide a project name
+and uncheck your Google analytics
+account if prompted click on the gear
+icon and go to Project settings go to
+the Cloud messaging section by opening
+it on other tab you will be able to
+enable the Cloud messaging API Key by
+clicking on the enable button next step
+is to generate the key pair go the Cloud
+messaging Tab and click on the generate
+the key pair copy the value of API key
+from the web push certificate section go
+to the project in the C drive enter to
+program files project aiq Fleet stack
+web root
+folder open both the configuration and
+messaging files in the sublime open the
+Firebase configuration file files in the
+sublime and paste the API key value in
+the Firebase configuration file as
+defined in the video screen visit the
+Firebase project and click on the web
+icon to add a web app you will have to
+register the web application by entering
+the name on The Next Step and clicking
+on register click on the ad Firebase
+SDK you will find a code under the
+Firebase SDK section for the web app you
+registered copy the code and press
+continue to Soul copy and paste this
+code in the Firebase configuration files
+and Firebase messaging files as in the
+video screen open the project settings
+again on the Firebase project go to the
+Cloud messaging section copy and paste
+the server key in the configuration
+setup on the super admin of the fleet
+stack
+software this will enable the working of
+the Firebase key on the fleet stack
+software

@@ -1,0 +1,34 @@
+[Music]
+to White Label and Link the domain the
+following steps need to be followed log
+into your plk panel with the username
+and password select the domain from the
+domain list select the DNS option from
+the domain settings click on the add
+record option form the DNS settings in
+the field of the domain name write the
+subdomain or leave it blank to represent
+the main domain on the white labeling
+enter the IP address to which you want
+to link the domain click on the okay
+button to confirm confirm the process
+with the update button log into the
+Super admin panel with the username and
+password go to the admin account for
+which you want to White Label go to the
+basic information option in the settings
+tab upload the logo as per the
+specifications defined maximum size of
+400 kiloby in PNG format enter the other
+details such as the company website and
+social media account
+links next step is to go to the
+configuration setup and enter the
+software base URL which doesn't include
+the HTTP or
+https next step is click on the hard
+refresh to confirm the
+changes this is the complete detail for
+the software white labeling on the fleet
+stack
+software

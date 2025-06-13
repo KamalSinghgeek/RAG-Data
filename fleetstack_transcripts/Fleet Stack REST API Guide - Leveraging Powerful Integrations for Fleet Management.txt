@@ -1,0 +1,17 @@
+open the login page and click on the
+rest API option on the login page click
+on the get user token option enter the
+username and password and then click on
+execute copy and paste the token and
+authorized by following enter the token
+with perfects as Bearer for checking the
+working of the API click on the execute
+button to download the device data enter
+the device ID and click on execute and
+download the data data in the downloaded
+data you will be able to find all the
+details in regard of the device
+similarly other details and working of
+the other API can be checked with the
+help of the execute
+button

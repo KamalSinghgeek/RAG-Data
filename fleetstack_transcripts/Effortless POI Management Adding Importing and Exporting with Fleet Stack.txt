@@ -1,0 +1,25 @@
+login into the software with your user
+credentials point of interest can be
+created by selecting the point of
+Interest option under the utility menu
+search the location to be marked as new
+point of Interest click on the add new
+point of Interest button enter the title
+description and category type of Icon
+tolerance and color of the point of
+interest and click on the save button
+you can also edit and delete the point
+of Interest using the edit and delete
+button to view the point of interest in
+the form of the cluster go on the map
+page and select the point of Interest
+option from the settings tab and all the
+point of interest will be displayed on
+the map page to download the list of the
+point of Interest click on the download
+point of Interest button and list will
+be exported in the format of the KML to
+upload the list of the point of Interest
+click on the bulk import point of
+interest and select the KML
+file

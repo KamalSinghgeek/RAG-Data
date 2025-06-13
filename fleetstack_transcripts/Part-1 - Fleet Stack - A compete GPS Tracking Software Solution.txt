@@ -1,0 +1,162 @@
+[Music]
+first of all we have to log into our AWS
+account our AWS account has been opened
+we have to create a server here now we
+have to click on
+ec2 when ec2 opens we have to click on
+instances
+running instances means
+server now we have to click on launch
+instances
+now here we have to enter the name of
+the instance which we are
+creating here we have to select the
+windows
+option now we will go to instance type
+and select according to your operating
+[Music]
+system now you will go to the key pair
+and enter your key and if you do not
+have any key then you will create a new
+key by going to create new key
+pair
+now go to configure storage and enter
+the number according to your system
+storage whatever portion you want to use
+of your hard
+[Music]
+drive after that you will go to launch
+instance launch instance completed now
+you have to click ec2 to return to the
+resource
+page now you have to click on the
+elastic
+IPS you will need an aesthetic IP to run
+your
+software now you have to go to alloc
+elastic IP
+address now you have to click on
+allocate now click on the right section
+and type the new name of the IP address
+created by you and save the name close
+the block of public IP address after the
+new IP address is saved select the
+allocated IP address of the instance you
+created now you have to click on
+associate IP address now you have to
+find out the server that you have just
+created and that server has to be
+associated with the elastic IP Ed
+address you associate the server you
+just created with the elastic IP
+address click ec2 again to return to the
+resource
+page go back to instances
+running and click
+scraping click on that server you
+created click on security now you have
+to create security rules now you have to
+click on security
+groups click on edit inbound rules click
+on ADD
+rule set the port range between 5,000 to
+6,000 again click add rule set 80 in the
+port range follow the screen again click
+add rule set 443 in Port
+range follow the screen again click add
+rule set 14 33 in Port range follow the
+screen and save the rules now we have
+created a server with its own IP address
+and we have made security rules now
+click ec2 to go back to the resource
+page click instances running and click
+on that server you make and click on the
+server which you have just created copy
+public IP
+address search remote desktop
+connection and paste the IP address
+which you have
+copied press connect now there are two
+blocks of one is username and second is
+password click connect click RDP
+client copy the
+username go to Windows security and
+paste the username click RDP client
+again click on get password click on
+upload private key file click
+Open click on decrypt password
+here is your password comes copy the
+password paste the
+[Music]
+password tick on remember me and press
+Okay click on
+yes now you have created a server with
+IP address and created security
+rules click on Microsoft
+Edge
+[Music]
+download Google Chrome follow the
+[Music]
+screen click on window
+security click on virus and threat
+protection click on manage setting off
+off realtime protection off Cloud Deli
+protection off automatic sample
+submission close the panel open Google
+Chrome and search Fleet stack and follow
+the screen follow the
+[Music]
+screen click on download free Trail
+Follow the
+[Music]
+screen open the zip folder extract the
+[Music]
+folder install Fleet stack follow the
+[Music]
+screen
+[Music]
+[Music]
+pap
+[Music]
+[Music]
+n
+[Music]
+Fleet stack installed press finish open
+Google
+Chrome type Local Host in url
+section Administration registration will
+open minimize it go to Windows
+[Music]
+security click on manage setting on
+realtime protection on cloud delivered
+protection on automatic sample
+submission then close the panel click on
+fleet
+stack Fleet stack panel is Open click on
+start both status are
+running close the
+panel open Administration registration
+panel type the name type the company
+[Music]
+name choose your country
+[Music]
+name type your website
+name
+[Music]
+type your mobile
+[Music]
+number type your email
+[Music]
+address type your
+username
+type your
+password confirm your
+password click
+finish click on super admin
+login enter your
+username enter your
+password enter your
+password Fleet stack success y running
+on your
+[Music]
+system

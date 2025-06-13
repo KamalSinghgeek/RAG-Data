@@ -1,0 +1,17 @@
+log into your account with your
+credentials go to the admin section and
+select the notification menu choose the
+types of notifications you want to
+receive such as ignition on and off
+power cut vibration hard breaking
+acceleration cornering tampering
+accident parking and door go to over
+speed tab to select the speed limit to
+get the alerts by selecting the speed
+and status from the Geo fencing section
+select the Zone in zone out and stay
+time
+alerts message will be displayed as
+updated successfully and then the
+notifications will be
+activated

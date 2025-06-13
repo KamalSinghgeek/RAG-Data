@@ -1,0 +1,41 @@
+log into the software with the admin
+credentials navigate to The View button
+and click on the users click to the add
+user button and enter the details to add
+the admin account profile name company
+name username password mobile number
+email address and other address related
+details the list of users with their
+corresponding details will be
+displayed the admin can also control
+user's status with a toggle button and
+can be activated and
+deactivated the admin can also log into
+the user's account by the login button
+the admin can also modify the password
+of the users by the set password button
+users details can also be edited with
+the edit button users can also be
+deleted with the delete button by
+clicking on the vehicle button you will
+be provided with the information about
+the vehicles or assets being tracked
+such as their make model IMI number and
+validity new vehicles can be added to
+the users by clicking on assign new
+vehicle button and selecting the
+vehicles to be assigned and clicking on
+the assign button Vehicles can be
+removed from the user account by
+clicking the insigned button admin can
+also take notes for the users by
+entering the text and clicking the add
+note button click on the add payment
+button and select the vehicle and enter
+the payment information amount payment
+mode reference and save to record
+payment files can be added using the
+upload file button on the files menu
+feedback can also be managed by using
+the feedback section on the feedback
+menu

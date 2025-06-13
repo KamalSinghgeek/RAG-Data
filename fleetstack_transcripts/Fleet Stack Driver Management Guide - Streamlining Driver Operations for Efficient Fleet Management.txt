@@ -1,0 +1,27 @@
+log into your GPS tracking software
+account with your username and password
+click on the admin section click on the
+drivers menu that allows you to manage
+drivers to add a new driver click on the
+add driver button where you will find a
+form for driver
+information you will need to enter their
+name contact number address and any
+other relevant details and click on the
+add driver to save the
+details once you have added a driver
+driver you can assign them to a vehicle
+this will allow you to track the
+driver's location and monitor their
+driving behavior while they are
+operating the vehicle assigning of the
+driver is also possible through the
+assign button on the map Page by
+clicking on the vehicle's icon edit
+driver information can be done using the
+edit button delete drivers will be
+possible through the delete button
+deactivation and activation of the
+driver can be managed through the toggle
+button
+I

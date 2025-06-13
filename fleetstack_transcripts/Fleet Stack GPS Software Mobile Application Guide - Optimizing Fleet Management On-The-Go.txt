@@ -1,0 +1,136 @@
+[Music]
+log into the mobile app with the login
+credentials the dashboard will show the
+total number of vehicles and their
+status running stop idle total number of
+kilometers will also get displayed on
+the dashboard in the format of the graph
+on the map page of the application you
+will be able to see total number of
+vehicles being tracked by software in
+the form of the cluster and by clicking
+on the cluster you will be able to track
+the exact location of the each vehicles
+on the map page option for map selection
+is available including a default hybrid
+satellite or terrain zoom in and zoom
+out features are also available on
+clicking on the vehicle icon an info
+window will be displayed on the map page
+with vehicle number and by clicking on
+the vehicle other details will also be
+updated including vehicle status
+ignition status today's distance speed
+and address history by clicking on the
+date the vehicle running status is
+displayed which includes the start Point
+running time and kilometers address and
+the stoppages time next on the mobile
+app is displayed the list button which
+allows the users to view all vehicles in
+the form of the listing view the various
+status including running stop idle
+inactive and no data are available the
+listing view displays the vehicle number
+today's kilometers last data update time
+address status from time users can also
+call the immobilize the vehicle view the
+replay view call the driver check the
+status for the tracking device power and
+the other parameter of the vehicle
+including the AC vehicle battery
+percentage vehicle fuel percentage
+clicking on the vehicle number will
+navigate to the map page and thus all
+information can be accessed from the map
+page reports page allows you check the
+report of the vehicles and also export
+and share with other users others tab on
+the mobile application allows you to
+perform the following
+functions users can select the vehicle
+and time period from the menu and click
+on the show results button and the
+complete details will be displayed total
+running time total running
+kilometers total stoppage time start
+Point running time stoppage
+time users can select the vehicle and
+time period from the menu and click on
+the show results button to view the
+replay view of the vehicle play button
+needs to be clicked users can also
+select the type of the map settings and
+the speed of the replay
+view the users can create the track link
+by selecting the vehicle and validity
+after creating the link the link can be
+shared with the share button and deleted
+by delete button users can select the
+language of their choice as per
+requirements vehicle details can be
+edited by the use of the edit button
+notifications can be enabled or disabled
+with the help of the toggle button
+vehicle can be immobilized with use of
+the toggle button parking mode can be
+enabled to get notified on the movement
+of the vehicle in the form of push
+notification users can also navigate to
+the vehicle's location from their
+location with the help of the navigate
+button users can also share their
+feedback with the admin privacy policy
+details can be accessed via the screen
+profile details can be managed by
+profile tab various notification sounds
+can be selected by the notification
+sound tab users can even create goo
+fencing using the mobile
+application log to the admin
+application the dashboard shows the
+status for the following total vehicles
+running
+Vehicles stop
+Vehicles idle Vehicles inactive Vehicles
+these are the vehicles not sending data
+from last 48 8 hours no data Vehicles
+these are the vehicles which didn't
+connect to the server expired Vehicles
+these are the vehicles which have
+expired expiring in 30 days there are
+Vehicles which are going to expire in
+next 30 days total credits available
+with the
+admin next is the map page which
+displays the details of the vehicles in
+the form of the cluster users can select
+the type of map as per requirements and
+zoom in and zoom out of the screen
+next is the users tab on the mobile
+application which shows the list of the
+users with their name and profile name
+the login button allows you to log into
+the particular user the edit button
+allows you to edit the details of the
+users also new users can be added to the
+software with the add new user button
+entering the details and pressing the
+submit button vehicle tab provides you
+with the details of the vehicles with
+their status running stop idle inactive
+and no data vehic V's location can be
+navigated with the locations tab users
+can view the details of the vehicles by
+The View
+button details can be edited with the
+help of the edit button commands can be
+sent to the devices with the help of the
+command button on clicking of the
+command button The Prompt will display
+an ask to select operator or the
+APN the predefined commands will be
+populated on the tab and enable you to
+send the commands to the Sim number
+defined while adding the vehicle
+h

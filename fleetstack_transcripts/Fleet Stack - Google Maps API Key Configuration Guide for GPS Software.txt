@@ -1,0 +1,30 @@
+[Music]
+to create a Google Maps API key and
+enable reverse geocoding you need to go
+through a few steps open cloud. console.
+goole.com
+log into your gcp account click on the
+project drop-down and create a new
+project and add the name of the project
+in the Google Cloud console navigate to
+the apis and services Library section
+search for geocoding API and select Ed
+click the enabled button in the Google
+Cloud console navigate to the apis and
+services credential section create an
+API key click on the create credentials
+button and select API key restrict the
+API key for security reasons it's
+recommended to restrict your API key to
+the specific apis and usage under
+application restrictions select HTTP
+refers
+websites add the websites or IP
+addresses from which you intend to make
+requests if you plan to use this API key
+on a web application add your website
+URL next step is to enable the billing
+for the API key you can now use this API
+key in your application to access the
+Google reverse geocoding
+API

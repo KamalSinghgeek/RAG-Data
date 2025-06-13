@@ -1,0 +1,252 @@
+[Music]
+dashboard page will show you the
+complete details total Vehicles being
+tracked by the GPS tracking software
+with total Vehicles added this month
+total users who have access to the GPS
+tracking software with total users added
+this month total Vehicles expiring in
+next 30 days pending payments in that
+particular month status of the vehicle
+whether it is running stop not working
+or no data clicking on that particular
+status will display the list launching
+campaign for promotion of new products
+services and offers dashboard include
+the user analytics graph which displays
+the total number of users and vehicles
+that have been added to the GPS tracking
+software over the period of the last one
+year and also provides you the growth
+rate the dashboard also displays the
+list of users that were recently added
+to the software by clicking on The View
+All button you can access the list of
+the users the dashboard also displays
+the list of vehicles that are going to
+expire by clicking on The View All
+button you access the complete list of
+vehicles requesting credits to Super
+admin is also possible through the admin
+by clicking on the request credit button
+you will see the dialogue box to request
+credits you can enter the credit count
+and press the request button to save the
+requirements vehicle overview is also
+provided by the software including the
+running stop not working from last 48
+hours and no no data Vehicles map menu
+allows you to see the number of vehicles
+being tracked by the software on the map
+page the number of cluster markers on
+the map can indicate the total number of
+vehicles or assets currently being
+tracked on clicking on the cluster
+marker you will be further able to see
+the location of all vehicles the map
+also includes a zoom in and zoom out
+function which allows the user to adjust
+the level of detail displayed on the map
+view menu allows you to manage the
+vehicles in users and view the details
+on the calendar users allow you for
+management of user accounts and their
+Associated data new users can be added
+by the add new user button by entering
+the details which include the profile
+name company name username password
+mobile number email and address details
+the list of the users who are accessing
+the GPS tracking software will be
+displayed with their corresponding
+details like their company name mobile
+number email ID and the date of creation
+and a unique ID is generated for every
+user the list of users can also be
+exported in the format of the Excel and
+CSV users can be activated or
+deactivated using the toggle button for
+managing of user accounts and their
+Associated data information click on
+username and you can edit features
+profiled allows you to manage details
+such as name contact details including
+the mobile number and the email ID
+address and login credentials
+the admin can also modify the password
+by the set password button users can
+also be deleted with the delete button
+Vehicles allows you manage the
+information about the vehicles or assets
+being tracked such as their make model
+IMEI number and validity Vehicles can be
+removed from the user account by
+clicking the insigned button new
+vehicles can be added to the users by
+clicking on assign new vehicle button
+and selecting the vehicles to be
+assigned and clicking on the assign
+button
+admin can also take notes for the users
+by entering the text and clicking the
+add note button payments can also be
+managed click on the add payment button
+and select the vehicle and enter the
+payment information amount payment mode
+reference and save to record payment and
+license will be renewed for the next one
+year files can be added using the upload
+file button on the files menu feedback
+can also be managed by using the
+feedback section on the feedback menu
+Vehicle Management allows you to manage
+vehicle
+details new vehicles can be added by the
+add new vehicle button and following the
+steps selecting the user from the select
+user tab if the user doesn't exist new
+users can be added by add users tab
+selecting the vehicle type and the
+device model and entering the
+registration number device model IMI and
+Sim number the list of vehicles can also
+be exported in the format of the PDF
+Excel and
+CSV other details such as registration
+number IMI number Sim number user
+account associated with the device type
+of the vehicle and model of the hardware
+device and validity for managing of
+vehicles accounts and their Associated
+data information click the vehicle
+number and the software will provide the
+option to manage the other features
+Vehicle Management click on the edit
+button to modify details including the
+registration number IMI number Sim
+number vehicle type and device model
+vehicles can also be deleted using the
+delete button license can be renewed
+using renew vehicle button users can be
+removed from the user account by
+clicking the insigned button new users
+can be added to the users by clicking on
+assign new users button and selecting
+the users to be assigned and clicking on
+the assign button map displays the
+location of all vehicles in real time
+the map view will also provide the
+option to zoom in and zoom out of the
+map and there also the option select
+different types of the maps
+send
+commands this feature allows
+administrators to send commands to
+Vehicles such as turning the engine on
+or off locking or unlocking the doors or
+any other function as per the capability
+of the device logs the logs of all
+vehicle activity including location
+speed fuel consumption and other data
+can be accessed by selecting the date
+and clicking on the check log button
+calendar view in the software allows you
+to view information about the new
+vehicles and use users added as well as
+Vehicles getting expired in the coming
+days using different colors to view the
+details click on the particular vehicle
+or the user and details will be
+displayed in the form of the dialogue
+box the details can viewed in the format
+of the day week or month under the
+utility tab of the software following
+functions can be
+performed support and feedback admin can
+view the feedback of the users and also
+the list can be export in the PDF Excel
+and C SV formats announcement click on
+the add announcement and the dialogue
+box will allow you to add the complete
+details title validity type of
+announcement followed by the
+description you can also add custom
+Announcement by adding the details in
+the format of the name mobile number
+address and the company
+details the admin can select the users
+they want to send the
+announcement finally they can push the
+announcement by clicking on the save
+announcement button sending
+notifications
+click on the add notify button and the
+dialogue box will allow you to add the
+complete details such as title message
+image URL and the launch URL you can
+also add custom notifications by adding
+the details in the format of the name
+mobile number address and the company
+details the admin can select the users
+they want to send the
+notifications admin can also view the
+preview and select the source they want
+to notify mobile or web and also select
+the date campaign
+finally they can push the notification
+by clicking on the save notify button to
+send the
+notification accounts can also be
+managed using the admin panel
+renewal the list of vehicles under the
+admin account will be displayed if you
+want to search a particular vehicles you
+can enter the vehicle number in the
+search bar and it will redirected to the
+vehicle details click on the renew
+button which allows you to enter the
+mode amount and reference number of the
+payment click on the activate renewal
+button to renew the license of the
+particular vehicle for the next one year
+payments click the option for add new
+payment select the user and vehicle you
+want to record payment for enter the
+payment information such as the amount
+paid payment method and payment
+reference once you have entered the
+payment information save the payment
+record and license will renewed for that
+particular vehicle
+settings settings tab can allow the
+admin to manage the following settings
+of the software which
+includes company
+information update the basic details
+such as the name profile name mobile
+number email ID address and pin code
+with the update details button logo and
+icon logo and favicon with a maximum of
+400 kilobytes PNG format and transparent
+background can be updated branding setup
+social media links with Android and iOS
+application links can be added in this
+section and can be saved by clicking on
+the update details button
+password password can also be updated
+using this section by entering the old
+password and replacing with new password
+and confirming it by the update password
+section other configuration settings
+including software base URL which
+doesn't include the HTTP or
+https email SMTP setup software pricing
+other functions that are available for
+the admin include hard refresh button to
+remove the cookies in the browser and
+activate the changes full screen option
+different languages can be also used to
+access the admin panel this defines the
+working of admin panel on the fleet
+stack
+software

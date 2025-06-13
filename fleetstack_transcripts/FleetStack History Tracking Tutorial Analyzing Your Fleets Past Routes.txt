@@ -1,0 +1,32 @@
+open the software and log in with your
+credentials once you're logged in you
+would see the tracking
+dashboard click on the map page and
+access the history through the side menu
+bar once you've accessed the history
+view you will be asked to select vehicle
+and time period in format of days and
+hours that you wish to view you have to
+also select stoppage time from the
+drop-down which is in minutes the
+software will display the vehicle
+history data on the map and through a
+timeline with the start point stoppages
+and running details of the vehicle the
+start point of the trip is marked with
+the black pointer and the end point is
+marked with the red pointer by clicking
+on the timeline history will be marked
+with a blue color line through which you
+will be able to access the
+details the stoppage points are marked
+with the stop symbols by scrolling over
+these stoppage points users will be able
+to know the in time and out time with
+the stay duration and address for the
+particular stoppage point you can zoom
+in and out of the map to get a better
+View and details of the vehicle you can
+also see the history of the vehicle on
+different types of
+maps

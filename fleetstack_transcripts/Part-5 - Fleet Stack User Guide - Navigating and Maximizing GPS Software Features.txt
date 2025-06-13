@@ -1,0 +1,246 @@
+[Music]
+the dashboard displays various key
+performance indicators that help the
+users to quickly assess the status and
+performance of the fleet total vehicles
+or assets currently being tracked and
+their current status running idle or
+stop total distance covered by the fleet
+in the last 10 days day and night
+kilometers covered in the last 10 days
+recent events and notifications
+triggered by the
+devices list of expiring vehicles
+users can directly go to the map using
+the go to map image icon users can
+directly go the reporting section by
+clicking the go to reports image icon
+users can also verify their email ID
+using the verify button on the
+dashboard map page will show you the
+total number of vehicles being tracked
+by the software in the form of
+clusters you can also select the map of
+your choice terrain hybrid satellite or
+others available in the menu by by
+clicking on the vehicle icon you can see
+the details including the vehicle's
+number IMI number of satellites distance
+status speed address lat long driver
+name and model of the device users can
+navigate to the location of the vehicle
+from the current location using
+navigation option users can also assign
+drivers to a particular vehicle to view
+other vehicle details click on the
+vehicle details tab users can also
+configure other vehicle attributes to
+save in the vehicle details tab logs
+today provides with the logs for the
+particular day replay can be viewed by
+selecting the time limits and click on
+the show button users can select the
+trail of the view by selecting from the
+checkbox users can also select if they
+want to see the data including the date
+time distance and address by selecting
+from the check boox users can also
+select the full screen mode users can
+select the type of of the map they want
+to see in the replay the settings option
+enables you to select the vehicle label
+cluster view Geo fencing and point of
+interest to be enabled to be viewed with
+the replay in the vehicle replay
+starting point is marked with the black
+pointer and the end point is marked with
+the red pointer and the stoppage points
+are marked with the stop symbols
+scrolling the mouse over the stoppage
+points gives you the complete details of
+the stoppage which includes the in time
+and out time stay time with lat long and
+the address of the stoppage there is
+also the option to zoom in and zoom out
+of the replay view users can also
+configure various sensors for that
+particular device being tracked to
+configure the sensor for device
+following steps need to be followed
+enter the name of the sensor to be
+configured select the icon of the sensor
+to be
+configured select the input type digital
+or analog and input being sent by the
+device Factor the value of the input
+with the required value example the
+voltage value is coming to be 30 volts
+but the corresponding value of the fuel
+for the that voltage is 60 lers we will
+have to multiply the value X which is 30
+volts with 2 and thus the factor will be
+X into 2 other values such as speed
+variation distance variation and the
+odometer can also be edited with the
+settings tab history view can also
+access by the users by selecting the
+time period and the stoppage time from
+the drop- down the software will display
+the vehicle history data on the map and
+through a timeline with the stoppage and
+running details of the vehicle by
+clicking on the timeline history will be
+marked with a blue color line through
+which you will be able to access the
+details the start point of the trip is
+marked with the black pointer and the
+end point is marked with the red pointer
+the stoppage points are marked with the
+stop symbols by scrolling over these
+stoppage points users will be able to
+know the in time and out time with the
+stay duration and add address for that
+particular stoppage point the events
+will display the notifications in the
+form of the list on the
+software the bottom menu also show
+various other values which include
+follow clicking on the follow button
+allows you to track the vehicle on the
+new tab show path clicking on the show
+path button allows you see the path of
+the vehicle users can also create a Geo
+fencing and point of Interest which will
+allow you to track when a vehicle or
+person enters or exits the
+geofence users can navigate to the
+location of vehicle from the current
+location using the navigate button users
+can also send command to tracking device
+using the send command button engine can
+be immobilized with the help of a toggle
+button Geo fencing to create the Geo
+fencing select the area to be Geo fenced
+users can use a line polygon Square
+Circle or a marker to define the area
+enter the title description and
+tolerance you can also edit and delete
+the geofence using the edit and delete
+button similarly point of interest can
+be created using the title description
+category and
+tolerance you can select the type of
+Icon and color of the point of
+Interest
+reminders click on the add new reminder
+button to set up the new
+reminders enter the service name for
+which the reminder is required select
+the vehicles for which the reminder is
+required select the last service date
+for the vehicle select the medium
+through which the reminder is required
+web mobile email or
+SMS time which is based on the number of
+days and also input the number of days
+before the time has reached alert is
+required odometers which is based on the
+number of kilometers and also input the
+number of kilometers before the
+kilometers have reached alert is
+required engine hours which is based on
+the number of engine hours and also
+input the number of engine hours before
+engine hours have reached the alert is
+required users can add new expenses by
+entering the details such as expenses
+name such as fuel cost toll Tax Service
+and repairs bill amount total
+expenditure expenses details such as
+diesel maintenance Workshop insurance
+and any other costs bill number and Bill
+date and finally you can upload the bill
+of the expenses and click on the add
+expenses button to save the report of
+the expenses output can be generated in
+the format of the Excel or
+PDF external tracking for creating the
+external tracking link you need to set
+options including Vehicles the duration
+of the link validity the level of detail
+displayed like the Geo fencing point of
+interest and Driver
+details by clicking on the create link
+the output will be created in the form
+of the embed code and URL link once
+you've created the link copy it and
+share it with anyone who needs to track
+the vehicle logs to check the logs of
+the
+vehicles select the vehicle number date
+range and the time interval and click on
+The View report button the complete
+details of the vehicle will be displayed
+in the form of the table and on the map
+the output can also be generated in the
+form of PDF and Excel
+report click on the select device report
+button to view the type of report that
+is required choose chose the filters for
+the report such as the date range and
+vehicles select the other parameters
+based on the report type and click on
+the option to view report users can also
+edit report columns which will enable
+users to keep the parameters as per
+requirements for that particular report
+choose the output format for the report
+such as PDF Excel or CSV to download the
+report to your
+device admin features allows you to
+manage the following Vehicles man
+management all the vehicles under the
+particular user are displayed in the
+form of the table to edit information
+for any particular vehicle click on the
+edit button update information regarding
+the vehicle number Sim number vehicle
+type and device model click on the save
+button to modify
+details sensors attributes and settings
+can also be managed from here driver
+management to add a new driver click on
+the add driver button where you will
+find a form for driver information
+you will need to enter their name
+contact number address and any other
+relevant
+details once you have added a driver you
+can assign them to a vehicle you can
+activate and deactivate the driver with
+the toggle button and also edit and
+delete as per requirements of the
+business
+notifications users can manage the basic
+notifications by toggle button and the
+over speed notifications by entering the
+speed Geo fencing notifications can can
+also be managed through this Tab support
+and
+feedback feedback can be shared by users
+by entering the
+details the list can be exported in the
+format of PDF Excel and
+CSV settings from the settings menu
+details such as company name email
+mobile number City address State and pin
+code can be edited also the user panel
+allows you to update the password other
+functions that are available for the
+user in include hard refresh button to
+remove the cookies in the browser and
+activate the changes full screen option
+different languages can be also used to
+access the user panel this defines the
+working of user panel on the fleet stack
+software

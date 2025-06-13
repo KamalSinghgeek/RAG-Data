@@ -1,0 +1,44 @@
+following steps need to be followed for
+generation of the mobile
+application go to the fleet stack Global
+website navigate to build your mobile
+application button and click on it log
+in using your Google account credentials
+to access the fleet stack
+platform after logging in click on the
+add project button to create a new
+project fill in the required details
+such as project name application name
+and package name kindly ensure the
+package name should be entered using the
+defined
+format once the project is created click
+on The View
+button upload the logo for your
+application by following the prompts and
+uploading the desired image
+file follow the onscreen instructions to
+generate the resources zip file make any
+necessary adjustments or configurations
+as
+required after generating the zip file
+and making adjustments and entering the
+details click on the push changes button
+to save the
+changes wait for a confirmation message
+indicating that the changes have been
+saved
+successfully click on the build
+resources button to initiate the process
+of building the
+application this process may take 5 to
+10 minutes once the building process is
+complete a message will be displayed
+confirming the building of the APK and
+ABB files you can then download these
+files from the provided
+links
+install the downloaded APK file on your
+mobile device to verify the working of
+the
+application

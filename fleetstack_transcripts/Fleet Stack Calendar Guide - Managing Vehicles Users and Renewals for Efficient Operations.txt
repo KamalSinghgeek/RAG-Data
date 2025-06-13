@@ -1,0 +1,19 @@
+loging into the software with the admin
+credentials navigate to the calendar
+option under view menu in the calendar
+view of software users can view
+information about the new vehicles and
+users added as well as Vehicles getting
+expired in the coming days using
+different colors by clicking on the
+users option in the calendar the details
+including the user admin number of
+devices assigned to the user contact
+status and current status are displayed
+by clicking on the user's option
+information including the device IMEI
+device Sim vehicle type device type are
+displayed the software can display the
+data in format of a day week or a month
+as per the requirements of the
+admin

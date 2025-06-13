@@ -1,0 +1,93 @@
+oh the media software installation
+process launch instance make a server to
+deploy the software name and tags choose
+the Windows Server according to your
+requirement
+[Music]
+select instance type
+your key pair
+configure hard disk storage capacity
+launch server
+[Music]
+click to ec2 click instances
+[Music]
+click on server
+click security after selecting the
+security group
+edit inbound rules
+[Music]
+add role click custom TCP Port range
+5000 to 6000 and create inbound security
+rules for the server
+save rules
+click ec2
+foreign
+[Music]
+copy the public server public IP address
+click RDP client
+click the start button and search remote
+desktop connection enter your server IP
+to connect to the server
+[Music]
+use a different account copy the user's
+name and paste it on the credentials
+get password upload private key file
+[Music]
+decrypt password
+copy the password and paste it on
+credentials
+[Music]
+[Music]
+open the browser and search
+fleetstack.in
+[Music]
+and download the free Trail
+[Music]
+go to virus and threat protection turn
+off real-time protection turn off Cloud
+delivered protection and turn off
+automatic sample submission
+[Music]
+5 extract all
+[Music]
+install the setup file
+[Music]
+thank you select more info and run
+anyway
+[Music]
+[Music]
+foreign
+[Music]
+er.net core 6.0 hosting bundle select
+download.net 6.0
+[Music]
+select hosting bundle
+[Music]
+and install.net hosting 6.0.16 win
+[Music]
+reload localhost
+[Music]
+admin account step fill
+[Music]
+go to the Super admin login
+enter username and password and login
+[Music]
+go to the admin account
+add new administrator
+[Music]
+and go to login
+select view users
+add user
+[Music]
+select view vehicle
+add vehicle
+[Music]
+the services and
+[Music]
+click on fleet stack and click Start the
+services
+[Music]
+click on the vehicle number
+now the software is working fine vehicle
+is showing on map
+[Music]

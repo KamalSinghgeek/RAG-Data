@@ -1,0 +1,34 @@
+open the software and log in with your
+account
+credentials navigate to the utility page
+and the click on reminders button to add
+the
+reminders click on the add new reminder
+button and you will find the page
+regarding the reminder setup add the
+service name for which the reminder is
+required select the vehicles for which
+the reminder would be triggered you can
+also select multiple Vehicles confirm
+the date of the last service select the
+med ium through which the reminder is
+required web mobile email and
+SMS also select basis of format of which
+reminder is required time which is based
+on the number of days and also input the
+number of days before the time has
+reached alert is required odometers
+which is based on the number of
+kilometers and also input the number of
+kilometers before the kilometers have
+reached alert is required engine hours
+which is based on the number of engine
+hours and also input the number of
+engine hours before engine hours have
+reached the alert is required click on
+the create reminder button to confirm
+the setup of the
+reminders users can also view the
+reminder with the view button and update
+the various details like the service
+details

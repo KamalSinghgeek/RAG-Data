@@ -1,0 +1,40 @@
+log into the software with the admin
+credentials navigate to vehicles under
+the view menu click on the add new
+vehicle button to add the new vehicles
+by selecting the user and entering the
+various Vehicles details including the
+vehicle type model of the hardware
+device vehicle number IMI number and the
+Sim number and confirming by clicking on
+ADD vehicle button for managing of
+vehicles accounts and their Associated
+data information click the vehicle
+number and the software will provide the
+option to manage and edit or delete the
+vehicles from the admin panel renew
+button allows you to renew the validity
+of the vehicles the users who are
+authorized to access the vehicles are
+also
+displayed by clicking assign new user
+button can enable new users to be
+assigned via the admin panel and users
+can be removed from the account via the
+insigned button map view the admin panel
+provides a map view that displays the
+location of all vehicles in real time
+the map view will also provide the
+option to zoom in and zoom out of the
+map and they're also the option to
+select different types of the maps send
+commands the admin panel allows
+administrators to send commands to
+Vehicles such as turning the engine off
+locking or unlocking the doors checking
+the current status of the device or any
+other function capability of the device
+logs the admin panel keeps logs of all
+vehicle activity including location
+speed fuel consumption and other data
+all

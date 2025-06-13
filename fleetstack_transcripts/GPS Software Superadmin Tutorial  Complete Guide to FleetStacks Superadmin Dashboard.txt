@@ -1,0 +1,109 @@
+on entering the URL for the particular
+software the login page will be
+displayed
+details that are displayed on the login
+page are Dynamic and can be configured
+through the super admin panel
+which includes the logo application name
+social media icons Google Play Store
+link and the Apple Store link
+to login into the Super admin panel
+click on the super admin button and
+enter the credentials for the super
+admin
+the software status will shown as
+activated or inactive
+following details will be shown on the
+dashboard which includes
+total numbers of vehicles and vehicles
+added in the current month
+total number of direct users which
+includes the admin types of users only
+total users added in the month
+total numbers of license being used by
+the super admin also the number of the
+licenses issued in that particular month
+below you will find other details which
+includes graph with the user analytics
+the number of vehicles license and users
+the total number of vehicles
+active today the device is working on
+that particular day inactive today the
+device is not working on that particular
+day
+not working not sending data for last 48
+hours
+no data devices which never sent data on
+the platform
+the next tab shows the list of the
+admins the search feature enables you to
+search a particular admin
+the details of the admin can also be
+exported in the format of PDF Excel or
+CSV
+the details of the admin such as the
+name login button number of the users
+and the vehicles in the particular
+account credits available company name
+mobile email date is displayed
+the admins can be activated and
+deactivated with the help of the toggle
+button
+new admins can be created with the help
+of the button above
+the form will be displayed within
+following details needed to be entered
+such as the company name profile name
+email contact number and other address
+related details
+username and password also needs to be
+assigned to the particular admin
+also credits needs to be issued to all
+admins and finally created with the help
+of the create account button
+to view other details for a particular
+admin click on the admin name for the
+particular admin
+various details such as the username
+mobile number email address and the
+address will be displayed for that
+particular admin
+password can be updated with the update
+password button on the admin panel
+credits for that particular account are
+displayed under the credits section
+super admin can add or deduct credits
+for a particular account
+the calendar shows total number of users
+total number of vehicles and total
+number of vehicles expiring for
+particular dates
+click on software configuration button
+various details in regard to the
+configuration which includes the
+following should be added
+company details
+mobile number
+software-based URL which doesn't include
+the HTTP or https
+company website
+email address
+software pricing
+social media links
+logo with maximum size of 400 kilobytes
+in PNG format without background
+super admin can also configure the
+payment Gateway by entering the Razer
+Pay merchant ID and the secret code
+other configuration setup which includes
+the Google API key Google auth login key
+Firebase server API key and web's Pusher
+API key can also be configured
+Google API key can be verified with the
+clicking on the verified button
+email SMTP can also be configured by
+entering the following details such as
+the email address username password host
+port and the encryption type
+the SMTP can also be verified using the
+test SMTP button on the panel
