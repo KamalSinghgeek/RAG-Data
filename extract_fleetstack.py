@@ -1,52 +1,62 @@
-import re
+import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin, urlparse
+import time
 
-def ultra_clean_fleetstack_text(input_file='fleetstack_docs.txt', output_file='fleetstack_docs_ultra_cleaned.txt'):
-    with open(input_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
+def extract_text_from_url(url):
+    """Fetch and clean visible text from a single page."""
+    try:
+        resp = requests.get(url, timeout=10)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"❌ Error fetching {url}: {e}")
+        return ""
 
-    cleaned = []
-    seen = set()
-    
-    
-    skip_patterns = [
-        r'^\s*$',                         # Empty lines
-        r'^--- TEXT FROM:',              # Section separators
-        r'^https?://',                   # Links
-        r'^edit page$',                  # GitHub edit links
-        r'^last updated.*$',             # Update timestamps
-        r'^navigation$',                 # Navigation label
-        r'^powered by.*$',               # Site footer
-        r'^©.*$',                        # Copyright
-        r'^fleetstack.*$',               # Brand name noise
-        r'^next$', r'^previous$',        # Pagination
-        r'^home$', r'^get started$',     # Sidebar menu
-        r'^search$',                     # Search box
-        r'^docs$', r'^community$',       # Top nav
-        r'^\[\]$',                       # Stray UI elements
-        r'^\|.*\|$',                     # Markdown table bars
-        r'^[-=~_]{3,}$',                 # Decorative dividers
-    ]
+    soup = BeautifulSoup(resp.text, "html.parser")
+    for tag in soup(["script", "style", "noscript", "header", "footer", "nav"]):
+        tag.decompose()
 
-    for line in lines:
-        line = line.strip()
+    return soup.get_text(separator="\n", strip=True)
 
-        if any(re.match(pattern, line, re.IGNORECASE) for pattern in skip_patterns):
+
+def crawl_site(base_url, max_pages=50, delay=1):
+    """Crawl the site to gather text from multiple pages under the same domain."""
+    visited = set()
+    to_visit = [base_url]
+    collected_text = []
+
+    base_domain = urlparse(base_url).netloc
+
+    while to_visit and len(visited) < max_pages:
+        url = to_visit.pop(0)
+        if url in visited:
             continue
+        visited.add(url)
 
-        # Filter out very short junk (single words or less than 5 characters, unless it's a heading)
-        if len(line) < 5 and not re.match(r'^[A-Z][a-z]+(\s[A-Z][a-z]+)*$', line):
-            continue
+        print(f"➡️ Crawling: {url}")
+        text = extract_text_from_url(url)
+        if text:
+            collected_text.append(f"\n--- TEXT FROM: {url} ---\n\n{text}\n")
+        
+        # parse for internal links
+        soup = BeautifulSoup(requests.get(url).text, "html.parser")
+        for a in soup.find_all("a", href=True):
+            href = urljoin(url, a["href"])
+            if urlparse(href).netloc == base_domain and href not in visited:
+                to_visit.append(href)
+        
+        time.sleep(delay)
 
-        # Remove duplicates while preserving order
-        if line not in seen:
-            seen.add(line)
-            cleaned.append(line)
+    return "\n".join(collected_text)
 
-    # Write to final output file
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(cleaned))
 
-    print(f"✅ Ultra-cleaned content saved to: {output_file}")
+if __name__ == "__main__":
+    base_url = "https://fleetstackglobal.com/topic/We-have-a-local-server-Can-we-install-and-try"
+    print("Starting crawl. This may take a while...")
+    full_text = crawl_site(base_url, max_pages=30, delay=0.5)
 
-# Run the cleaner
-ultra_clean_fleetstack_text()
+    with open("fleetstack_forum.txt", "w", encoding="utf-8") as f:
+        f.write(full_text)
+
+    print("✅ Extraction finished!")
+    print("Text saved to fleetstack_forum.txt")
